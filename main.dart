@@ -25,6 +25,4 @@ void getGuess() {
   }
 }
 
-void main() {
-  getGuess();
-}
+void main() => getGuess();
